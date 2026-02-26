@@ -1,4 +1,4 @@
-![dunebanner](images/dunebanner.jpg)
+![dunebanner](images/dunebanner.png)
 
 # Pedro Parada
 
