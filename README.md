@@ -1,3 +1,5 @@
+![Banner](images/dunebanner.jpg)
+
 # Pedro Parada
 
 Data Engineering & Analytics  
