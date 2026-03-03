@@ -1,112 +1,127 @@
 ![dunebanner](images/dunebanner.png)
 
 # Pedro Parada
-
-Data Engineering & Analytics  
-exploring structure, patterns and behavior through data.
-
----
-
-## About Me
-
-Currently focused on Data Engineering and Analytics, designing structured data pipelines and dimensional models.
-
-My work often sits at the intersection of structure and interpretation — transforming raw data into coherent systems.
-Currently working as a Software Engineering Intern at JP Morgan, contributing to ETL migration and data pipeline development.
+Ingeniería y Arquitectura de Datos  
+explorando estructura, patrones y comportamiento a través de sistemas de información.
 
 ---
 
-## Tech Stack
+## Sobre mí
 
-**Languages & Core Tools**
-- Python
-- SQL
-- Pandas
-- Git / GitHub
-- Power BI
-- Java
-- JavaScript
-- HTML
-- CSS
-- Spring Boot
-- Alteryx
-- Pentaho
-- R
-- C
+Enfocado en Ingeniería y Analítica de Datos, diseño y desarrollo sistemas que transforman datos crudos en estructuras coherentes y analizables.
 
-**Data Engineering**
-- ETL pipeline design
-- Data cleaning & normalization
-- Dimensional modeling
-- Surrogate keys implementation
-- Parquet (columnar storage)
+Mi trabajo se sitúa en la intersección entre arquitectura y significado: construir pipelines robustos, modelar dimensiones y garantizar calidad, para que el análisis no sea improvisación, sino consecuencia de una estructura bien diseñada.
 
-**Analytics & Visualization**
-- Power BI
-- Exploratory Data Analysis
-- Temporal pattern analysis
-- Correlation analysis
-
-**Workflow & Environment**
-- VS Code
-- Modular project structure
-- Version control best practices
-- Basic cloud environment exposure
+Actualmente me desempeño como Software Engineering Intern en JP Morgan, participando en migraciones ETL y rediseño de pipelines productivos, con foco en mantenibilidad, modularidad y control de calidad.
 
 ---
 
-## Featured Project
+## Áreas de Especialización
+
+### Data Engineering
+
+- Diseño y desarrollo de pipelines ETL 
+- Procesamiento y transformación de datos estructurados
+- Limpieza, validación y normalización
+- Modelado dimensional
+- Implementación de surrogate keys
+- Almacenamiento columnar con Parquet
+- Logging y manejo estructurado de errores
+
+---
+
+### Data Architecture & Modeling
+
+- Diseño de modelos analíticos orientados a métricas
+- Separación clara entre hechos y dimensiones
+- Construcción de tablas de hechos con granularidad definida
+- Optimización para análisis temporal
+- Organización modular de proyectos de datos
+- Principios de clean architecture aplicados a pipelines
+
+---
+
+### Backend & Desarrollo de Sistemas
+
+- Integración con bases de datos relacionales
+- Arquitectura en capas (controller / service / repository)
+- Consumo e integración de APIs externas
+- Automatización de procesos
+- Testing básico y validación funcional
+
+---
+
+### Analytics & Visualización
+
+- Análisis Exploratorio de Datos (EDA)
+- Análisis de patrones temporales
+- Análisis de correlación
+- Diseño de dashboards en Power BI
+- Visualización de métricas conductuales
+- Traducción de estructuras técnicas en insight analítico
+
+---
+
+### Frontend & Interface
+
+- Desarrollo de interfaces web simples (HTML, CSS, JavaScript)
+- Consumo de APIs desde frontend
+- Exposición visual de métricas y resultados
+- Diseño claro de interfaces para proyectos técnicos
+
+---
+
+## Stack Tecnológico
+
+**Lenguajes y Herramientas**
+Python · SQL · Pandas · Java · JavaScript · R · C  
+
+**Data & BI**
+Power BI · Parquet · Pentaho · Alteryx  
+
+**Workflow**
+Git / GitHub · VS Code · Entornos virtuales · Estructura modular de proyectos  
+
+---
+
+## Proyecto Destacado
 
 ### Spotify Data Analytics – Mini Data Warehouse
 
-Designed and implemented an end-to-end ETL pipeline from personal Spotify extended streaming history (JSON export).
+Diseño e implementación de un pipeline ETL end-to-end a partir del historial extendido de reproducciones personales de Spotify (exportación JSON).
 
-- Multi-file JSON ingestion
-- Data normalization & transformation
-- Star schema dimensional model
-- Fact table with playback metrics
-- Parquet storage layer
-- Interactive Power BI dashboard
+- Ingesta multi-archivo
+- Normalización y transformación estructurada
+- Modelo dimensional en esquema estrella
+- Tabla de hechos con métricas de reproducción
+- Capa de almacenamiento en Parquet
+- Dashboard analítico interactivo en Power BI
 
-Focus: behavioral patterns, temporal distribution, device usage, and listening intensity analysis.
-
----
-
-## Current Focus
-
-- Improving ETL robustness
-- Data quality validation
-- Scalable data architecture
-- Automation and workflow orchestration
-- Strengthening statistical rigor in analysis
+Enfoque analítico:
+Patrones de comportamiento, distribución temporal, intensidad de escucha y uso de dispositivos desde una perspectiva estructural.
 
 ---
 
-## Interests
+## Enfoque Actual
 
-- Behavioral data
-- Time-series patterns
-- Systems thinking
-- Clean architecture in data projects
+- Robustez y resiliencia en pipelines ETL
+- Validación sistemática de calidad de datos
+- Arquitectura escalable orientada a análisis
+- Automatización y orquestación de procesos
+- Mayor rigor estadístico en interpretación de métricas
 
 ---
 
-## Contact
+## Intereses
 
-Open to Junior Data Engineer / Data Analyst opportunities  
-Focused on building reliable data systems with analytical depth.
+- Datos conductuales
+- Series temporales
+- Pensamiento sistémico
+- Arquitectura limpia aplicada a ingeniería de datos
 
-<!--
-**gal0iss/gal0iss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Contacto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Abierto a oportunidades como Data Engineer Junior / Data Analyst.  
+Interesado en construir sistemas de datos confiables, estructuralmente sólidos y analíticamente profundos.
