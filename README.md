@@ -1,127 +1,75 @@
 ![dunebanner](images/dunebanner.png)
 
 # Pedro Parada
-Ingeniería y Arquitectura de Datos  
-explorando estructura, patrones y comportamiento a través de sistemas de información.
 
----
+**Software Engineering | Data Engineering | Backend Development**
+
+Construyo sistemas de software que automatizan procesos, integran servicios y transforman datos en información útil.
 
 ## Sobre mí
 
-Enfocado en Ingeniería y Analítica de Datos, diseño y desarrollo sistemas que transforman datos crudos en estructuras coherentes y analizables.
+Soy desarrollador de software con experiencia en automatización de procesos productivos, desarrollo backend, integración de APIs y transformación de datos.
 
-Mi trabajo se sitúa en la intersección entre arquitectura y significado: construir pipelines robustos, modelar dimensiones y garantizar calidad, para que el análisis no sea improvisación, sino consecuencia de una estructura bien diseñada.
+Durante mi experiencia en **JPMorgan Chase**, participé en la modernización de procesos internos, migraciones de ETL desde Pentaho a Python y desarrollo de aplicaciones para flujos regulatorios y financieros. Mi trabajo abarcó desde la transformación de datos hasta la construcción de servicios e interfaces para usuarios de negocio.
 
-Actualmente me desempeño como Software Engineering Intern en JP Morgan, participando en migraciones ETL y rediseño de pipelines productivos, con foco en mantenibilidad, modularidad y control de calidad.
+En paralelo, desarrollo proyectos personales que me permiten profundizar en arquitectura de software, ingeniería de datos, modelado analítico y visualización.
 
----
+Me interesa construir soluciones mantenibles, modulares y confiables, entendiendo tanto los datos como los sistemas que los procesan.
 
-## Áreas de Especialización
+## Experiencia técnica
 
-### Data Engineering
+**Software Engineering & Backend**
+- Desarrollo de servicios y APIs REST.
+- Automatización de procesos y sistemas internos.
+- Integración con servicios y fuentes de datos.
+- Validaciones, manejo de errores y modularización.
+- Desarrollo de aplicaciones con Python y TypeScript.
 
-- Diseño y desarrollo de pipelines ETL 
-- Procesamiento y transformación de datos estructurados
-- Limpieza, validación y normalización
-- Modelado dimensional
-- Implementación de surrogate keys
-- Almacenamiento columnar con Parquet
-- Logging y manejo estructurado de errores
+**Data Engineering**
+- Desarrollo y migración de pipelines ETL.
+- Limpieza, normalización y transformación de datos.
+- Modelado dimensional y diseño de tablas de hechos.
+- Procesamiento y almacenamiento en formato Parquet.
+- Validación de datos y mejora de procesos productivos.
 
----
+**Analytics & Visualization**
+- Análisis exploratorio y temporal de datos.
+- Construcción de dashboards en Power BI.
+- Integración entre pipelines, APIs y capas de visualización.
 
-### Data Architecture & Modeling
+## Stack tecnológico
 
-- Diseño de modelos analíticos orientados a métricas
-- Separación clara entre hechos y dimensiones
-- Construcción de tablas de hechos con granularidad definida
-- Optimización para análisis temporal
-- Organización modular de proyectos de datos
-- Principios de clean architecture aplicados a pipelines
+**Lenguajes:** Python · SQL · Java · JavaScript · TypeScript
 
----
+**Backend & APIs:** FastAPI · REST APIs · Gradio
 
-### Backend & Desarrollo de Sistemas
+**Data:** Pandas · NumPy · Parquet · Pentaho · Alteryx
 
-- Integración con bases de datos relacionales
-- Arquitectura en capas (controller / service / repository)
-- Consumo e integración de APIs externas
-- Automatización de procesos
-- Testing básico y validación funcional
+**Frontend:** React · HTML · CSS
 
----
+**Infraestructura & herramientas:** Git · Docker · Kubernetes · Cloud Foundry
 
-### Analytics & Visualización
+## Proyecto destacado
 
-- Análisis Exploratorio de Datos (EDA)
-- Análisis de patrones temporales
-- Análisis de correlación
-- Diseño de dashboards en Power BI
-- Visualización de métricas conductuales
-- Traducción de estructuras técnicas en insight analítico
+### Listening Data — Personal Data Warehouse & Analytics
 
----
+Proyecto end-to-end que transforma un historial personal de reproducciones musicales en una plataforma de análisis.
 
-### Frontend & Interface
+- Pipeline ETL desarrollado en Python y Pandas.
+- Modelo dimensional en esquema estrella.
+- Almacenamiento analítico en Parquet.
+- Enriquecimiento geográfico de los datos.
+- Dashboard interactivo en Power BI.
+- Exploración de consultas SQL directamente en el navegador.
 
-- Desarrollo de interfaces web simples (HTML, CSS, JavaScript)
-- Consumo de APIs desde frontend
-- Exposición visual de métricas y resultados
-- Diseño claro de interfaces para proyectos técnicos
+El proyecto combina ingeniería de datos, modelado, análisis temporal y visualización en una solución reproducible y orientada al análisis de comportamiento.
 
----
+**Código fuente:** https://github.com/gal0iss/SpotifyDataAnalytics
 
-## Stack Tecnológico
-
-**Lenguajes y Herramientas**
-Python · SQL · Pandas · Java · JavaScript · R · C  
-
-**Data & BI**
-Power BI · Parquet · Pentaho · Alteryx  
-
-**Workflow**
-Git / GitHub · VS Code · Entornos virtuales · Estructura modular de proyectos  
-
----
-
-## Proyecto Destacado
-
-### Spotify Data Analytics – Mini Data Warehouse
-
-Diseño e implementación de un pipeline ETL end-to-end a partir del historial extendido de reproducciones personales de Spotify (exportación JSON).
-
-- Ingesta multi-archivo
-- Normalización y transformación estructurada
-- Modelo dimensional en esquema estrella
-- Tabla de hechos con métricas de reproducción
-- Capa de almacenamiento en Parquet
-- Dashboard analítico interactivo en Power BI
-
-Enfoque analítico:
-Patrones de comportamiento, distribución temporal, intensidad de escucha y uso de dispositivos desde una perspectiva estructural.
-
----
-
-## Enfoque Actual
-
-- Robustez y resiliencia en pipelines ETL
-- Validación sistemática de calidad de datos
-- Arquitectura escalable orientada a análisis
-- Automatización y orquestación de procesos
-- Mayor rigor estadístico en interpretación de métricas
-
----
-
-## Intereses
-
-- Datos conductuales
-- Series temporales
-- Pensamiento sistémico
-- Arquitectura limpia aplicada a ingeniería de datos
-
----
+**Portafolio:** https://gal0iss.github.io/portafolio/
 
 ## Contacto
 
-Abierto a oportunidades como Data Engineer Junior / Data Analyst.  
-Interesado en construir sistemas de datos confiables, estructuralmente sólidos y analíticamente profundos.
+Abierto a oportunidades en Software Engineering, Backend Development y Data Engineering.
+
+Interesado en desarrollar sistemas confiables, automatizar procesos y construir soluciones que conecten datos, servicios y aplicaciones.
